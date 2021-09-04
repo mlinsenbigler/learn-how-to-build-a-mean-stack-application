@@ -19,4 +19,4 @@ COPY . .
 # Expose port 3000 outside container
 EXPOSE 3000
 # Command used to start application
-CMD npm run start
+CMD ["npm", "run", "start"]

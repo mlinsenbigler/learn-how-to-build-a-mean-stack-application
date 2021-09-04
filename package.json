@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@mean-expert/loopback-sdk-builder": "^2.3.1",
+    "@loopback/core": "^2.16.2",
     "compression": "^1.7.2",
     "cors": "^2.8.2",
     "helmet": "^3.10.0",
@@ -23,7 +24,7 @@
     "strong-error-handler": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.17.1",
+    "eslint": "^7.29.0",
     "eslint-config-loopback": "^8.0.0",
     "nsp": "^3.2.1"
   }
